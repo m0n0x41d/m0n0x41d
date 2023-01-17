@@ -7,6 +7,11 @@
 
 ---
 
+Here are few simple web-dev projects in Go lang.
+[Photo-gallery](https://github.com/NaNameUz3r/photo-gallery) made during Jon Calhoun web-dev course.
+[Car-park](https://github.com/NaNameUz3r/car-park) is pretty awfull project. This was my first experience of iterative development with constantly changing requirements with no initial specification at all. 
+
+---
 ### Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-zakutnii-a43851203/)
