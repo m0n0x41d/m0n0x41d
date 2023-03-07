@@ -7,8 +7,8 @@
 
 ---
 
-Here are few simple web-dev projects in Go.
-
+Here are few of mihe projects written in Go.
+- [ReviewReaper](https://github.com/NaNameUz3r/ReviewReaper) k8s informer that clear expired review namespaces.
 - [Photo-gallery](https://github.com/NaNameUz3r/photo-gallery) made during Jon Calhoun web-dev course.
 - [Car-park](https://github.com/NaNameUz3r/car-park) is pretty wierd project. This was my first experience of iterative development with constantly changing requirements with no initial specification at all. 
 
