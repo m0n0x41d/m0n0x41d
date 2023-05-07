@@ -2,16 +2,14 @@
 
 - :penguin: I am DevOps engineerd at Flant. 
 - :mag_right: Studying computer science mainly by [Sergei Bobrovsky](https://vk.com/lambda_brain) cources.
-- :pencil2: I also write a [blog](https://wannahack.in/). 
+- :pencil2: Here is my [blog and resume](https://wannahack.in/). 
 
 ---
 
 Here are few of mihe projects written in Go.
 - [ReviewReaper](https://github.com/NaNameUz3r/ReviewReaper) k8s informer that clear expired review namespaces.
 - [Photo-gallery](https://github.com/NaNameUz3r/photo-gallery) made during Jon Calhoun web-dev course.
-- [Car-park](https://github.com/NaNameUz3r/car-park) is pretty wierd project. This was my first experience of iterative development with constantly changing requirements with no initial specification at all. 
-- And a bunch of other small stuff. Crawl through profile, come on!
-
+- And a bunch of other small stuff. Come on, lurk into profile :) 
 ---
 ### Social
 
