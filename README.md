@@ -17,4 +17,4 @@ Here are few of mihe projects written in Go.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/formless_space)
 [![Telegram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakutnii.ivan@gmail.com)
 
-[The most intimate of my whole being](https://surl.li/gtppa)
+[Do not click here](https://surl.li/gtppa)
