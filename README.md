@@ -1,7 +1,7 @@
 ##  Greetings :metal::blush:, This is Ivan!
 
 - :penguin: I am Python Backend Engineeirdo at Monite. 
-- :mag_right: Studying computer science mainly by [Sergei Bobrovsky](https://vk.com/lambda_brain) cources.
+- :mag_right: Fascinated by CS.
 - :pencil2: Here is my [blog and CV](https://wannahack.in/). 
 
 ---
