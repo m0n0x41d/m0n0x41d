@@ -1,20 +1,13 @@
 ##  Greetings :metal::blush:, This is Ivan!
 
 - :penguin: I am Python Backend Engineeirdo at Monite. 
-- :mag_right: Fascinated by CS.
-- :pencil2: Here is my [blog and CV](https://wannahack.in/). 
-
----
-
-Here are few of mihe projects written in Go.
-- [ReviewReaper](https://github.com/NaNameUz3r/ReviewReaper) k8s informer that clear expired review namespaces.
-- [Photo-gallery](https://github.com/NaNameUz3r/photo-gallery) made during Jon Calhoun web-dev course.
-- And a bunch of other small stuff. Come on, lurk into profile :) 
+- :mag_right: Fascinated by Computer Science, Software and System Design.
+- :pencil2: Take a look at my [web page](https://wannahack.in/), here you can find my blog, learning tracker, CV and bookshelf.
 ---
 ### Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-zakutnii-a43851203/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/formless_space)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m0n0x41d)
 [![Telegram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakutnii.ivan@gmail.com)
 
-[Do not click here](https://surl.li/gtppa)
+[Attention, Do not click here](https://surl.li/gtppa)
