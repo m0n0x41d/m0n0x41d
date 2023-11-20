@@ -14,6 +14,7 @@
 </div>
 
 
+
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -79,10 +80,6 @@
   <a href="https://www.buymeacoffee.com/ivanzakutn11">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ivanzakutn11" />
   </a>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0n0x41d&show_icons=true&locale=en&layout=compact" alt="m0n0x41d" />
 </p>
 
 <p>
