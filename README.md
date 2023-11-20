@@ -1,8 +1,5 @@
 
 ---
-
-000000000
-
 <h1 align="center">Hi🤘😊, I'm Ivan</h1>
 <h3 align="center">Back-end Software Enginner with solid DBA and DevOps background</h3>
 
@@ -30,7 +27,7 @@
 </p>
 
 
-<h3 align="left">"Languages and tools I am using or am pretty well familiar with.":</h3>
+<h3 align="left">Languages and tools I am using or am pretty well familiar with:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -77,11 +74,17 @@
 </p>
 
 
-
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ivanzakutn11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ivanzakutn11" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/ivanzakutn11">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ivanzakutn11" />
+  </a>
+</p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0n0x41d&show_icons=true&locale=en&layout=compact" alt="m0n0x41d" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0n0x41d&show_icons=true&locale=en&layout=compact" alt="m0n0x41d" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0x41d&" alt="m0n0x41d" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0x41d&" alt="m0n0x41d" />
+</p>
