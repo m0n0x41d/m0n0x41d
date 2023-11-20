@@ -17,6 +17,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Value of API Gateway: When Does It Shine?](https://dev.to/m0n0x41d/the-value-of-api-gateway-when-does-it-shine-mip)
+- [General Techniques for Documenting Systems](https://dev.to/m0n0x41d/general-techniques-for-documenting-systems-3cjc)
+- [So what is Design Patterns?](https://dev.to/m0n0x41d/so-what-is-design-patterns-180b)
+- [Hack in Declarative Model - Part 1](https://dev.to/m0n0x41d/hack-in-declarative-model-part-1-g71)
+- [Python&#39;s Concurrency](https://dev.to/m0n0x41d/pythons-concurrency-3pbd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Feel free to reach out:</h3>
