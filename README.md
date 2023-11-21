@@ -1,6 +1,6 @@
 
 ---
-<h1 align="center">Hi🤘😊, I'm Ivan</h1>
+<h1 align="center">Oh, hello there🖖😊, I'm Ivan</h1>
 <h3 align="center">Back-end Software Enginner with solid DBA and DevOps background</h3>
 
 - 🐧 Working at [Monite](https://monite.com/)
