@@ -4,6 +4,8 @@
 <h3 align="left">Back-end Software Enginner with solid DBA and DevOps background</h3>
 
 - 🐧 Working at [Monite](https://monite.com/)
+- 🤖 Trying to hack in [Cadwyn](https://github.com/zmievsa/cadwyn) code-generation.
+- 👨‍🎓 Currently studying "Programming in Small Styles" course, based on [Exercises in Programming Style](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371)
 - 📝 I regularly write articles, focusing on topics related to system and software design.
 - 💡 Know about my experiences, and check all blog posts here: [wannahack.in](https://wannahack.in/)
 
