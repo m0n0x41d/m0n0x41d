@@ -3,11 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&duration=1000&pause=1000&color=2FF745&repeat=false&random=true&width=435&lines=Oh%2C+hello+there%F0%9F%96%96%F0%9F%98%8A%2C+I'm+Ivan.)](https://git.io/typing-svg)
 <h3 align="left">Back-end Software Enginner with solid DBA and DevOps background</h3>
 
-- 🐧 Working at [Monite](https://monite.com/)
-- 🤖 Trying to hack in [Cadwyn](https://github.com/zmievsa/cadwyn) code-generation.
-- 👨‍🎓 Currently studying "Programming in Small Styles" course, based on [Exercises in Programming Style](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371)
-- 📝 I regularly write articles, focusing on topics related to system and software design.
-- 💡 Know about my experiences, and check all blog posts here: [wannahack.in](https://wannahack.in/)
+Certainly! Here's a more polished and organized version:
+
+- 👨‍💻 Working at [Monite](https://monite.com/)
+- 🤖 Hacking in the depths of [Cadwyn](https://github.com/zmievsa/cadwyn) code-generation.
+- 🎓 Currently immersed in the "Programming in Small Styles" course, based on [Exercises in Programming Style](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371).
+- 📚 Diving into [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language).
+- ✍️ Regularly crafting articles on topics revolving around system and software design
+- 💡 Explore my experiences and read all blog posts on [wannahack.in](https://wannahack.in/).
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
