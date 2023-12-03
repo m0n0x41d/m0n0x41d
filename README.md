@@ -92,6 +92,3 @@ Certainly! Here's a more polished and organized version:
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0x41d&" alt="m0n0x41d" />
-</p>
