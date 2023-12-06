@@ -22,11 +22,11 @@ Certainly! Here's a more polished and organized version:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You do not need TDD. Only if...](https://dev.to/m0n0x41d/you-do-not-need-tdd-only-if-ffj)
 - [Hack in Declarative Model - Part 2](https://dev.to/m0n0x41d/hack-in-declarative-model-part-2-2eok)
 - [Designing Effective REST APIs: A Comprehensive overview](https://dev.to/m0n0x41d/designing-effective-rest-apis-a-comprehensive-overview-55o)
 - [The Value of API Gateway: When Does It Shine?](https://dev.to/m0n0x41d/the-value-of-api-gateway-when-does-it-shine-mip)
 - [General Techniques for Documenting Systems](https://dev.to/m0n0x41d/general-techniques-for-documenting-systems-3cjc)
-- [So what is Design Patterns?](https://dev.to/m0n0x41d/so-what-is-design-patterns-180b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Feel free to reach out:</h3>
