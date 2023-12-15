@@ -6,7 +6,6 @@
 Certainly! Here's a more polished and organized version:
 
 - 👨‍💻 Working at [Monite](https://monite.com/)
-- 🤖 Hacking in the depths of [Cadwyn](https://github.com/zmievsa/cadwyn) code-generation.
 - 🎓 Currently immersed in the "Programming in Small Styles" course, based on [Exercises in Programming Style](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371).
 - 📚 Diving into [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language).
 - ✍️ Regularly crafting articles on topics revolving around system and software design
