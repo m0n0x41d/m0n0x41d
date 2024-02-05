@@ -6,7 +6,7 @@
 Certainly! Here's a more polished and organized version:
 
 - 👨‍💻 Working at [Monite](https://monite.com/)
-- 🎓 Currently immersed in the "Programming in Small Styles" course, based on [Exercises in Programming Style](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371).
+- 🎓 Currently immersed in studying HighLoad System Design essentials and best practices.
 - 📚 Diving into [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language).
 - ✍️ Regularly crafting articles on topics revolving around system and software design
 - 💡 Explore my experiences and read all blog posts on [wannahack.in](https://wannahack.in/).
