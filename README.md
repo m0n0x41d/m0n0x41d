@@ -21,11 +21,11 @@ Certainly! Here's a more polished and organized version:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HighLoad Saga. Part Two, Chapter 1: Storing the Data](https://dev.to/m0n0x41d/highload-saga-part-two-chapter-1-storing-the-data-hf2)
 - [Hack in Declarative Model - Part 3](https://dev.to/m0n0x41d/hack-in-declarative-model-part-3-1jpp)
 - [HighLoad Saga: The Fundamentals](https://dev.to/m0n0x41d/highload-saga-the-fundamentals-4kj4)
 - [The Essence of Error Theory](https://dev.to/m0n0x41d/the-essence-of-error-theory-5h5m)
 - [Pitfalls in software design reasoning](https://dev.to/m0n0x41d/pitfalls-in-software-design-reasoning-36jh)
-- [You do not need TDD. Only if...](https://dev.to/m0n0x41d/you-do-not-need-tdd-only-if-ffj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Feel free to reach out:</h3>
