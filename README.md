@@ -1,7 +1,7 @@
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&duration=1000&pause=1000&color=2FF745&repeat=false&random=true&width=435&lines=Oh%2C+hello+there%F0%9F%96%96%F0%9F%98%8A%2C+I'm+Ivan.)](https://git.io/typing-svg)
-<h3 align="left">Back-end Software Enginner with solid DBA and DevOps background</h3>
+<h3 align="left">Platform Engineer</h3>
 
 Certainly! Here's a more polished and organized version:
 
