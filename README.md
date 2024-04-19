@@ -6,10 +6,9 @@
 Certainly! Here's a more polished and organized version:
 
 - 👨‍💻 Working at [Monite](https://monite.com/)
-- 🎓 Currently immersed in studying HighLoad System Design essentials and best practices.
-- 📚 Diving into [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language).
-- ✍️ Regularly crafting articles on topics revolving around system and software design
-- 💡 Explore my experiences and read all blog posts on [wannahack.in](https://wannahack.in/).
+- 🎓 Currently immersed in studying HighLoad System Design essentials and best practices. 
+- ✍️ Crafting articles on topics revolving around system, software design and my thoughts.
+- 💡 Explore my experiences and read all blog posts on [ivanzakutnii.com](https://ivanzakutnii.com/).
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
