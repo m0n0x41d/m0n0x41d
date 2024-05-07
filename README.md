@@ -20,11 +20,11 @@ Certainly! Here's a more polished and organized version:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Abstraction?](https://dev.to/m0n0x41d/what-is-abstraction-44k1)
 - [I have tried to love Python](https://dev.to/m0n0x41d/i-have-tried-to-love-python-1img)
 - [HighLoad Saga. Part Three: Transaction Processing and Analytics](https://dev.to/m0n0x41d/highload-saga-part-three-transaction-processing-and-analytics-2m1c)
 - [HighLoad Saga. Part Two, Chapter 2: Data Storage and Processing Subsystems](https://dev.to/m0n0x41d/highload-saga-part-two-chapter-2-data-storage-and-processing-subsystems-5gh5)
 - [HighLoad Saga. Part Two, Chapter 1: Storing the Data](https://dev.to/m0n0x41d/highload-saga-part-two-chapter-1-storing-the-data-hf2)
-- [Hack in Declarative Model - Part 3](https://dev.to/m0n0x41d/hack-in-declarative-model-part-3-1jpp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Feel free to reach out:</h3>
