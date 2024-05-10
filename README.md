@@ -6,7 +6,7 @@
 Certainly! Here's a more polished and organized version:
 
 - 👨‍💻 Working at [Monite](https://monite.com/)
-- 🎓 Currently immersed in studying HighLoad System Design essentials and best practices. 
+- 🎓 Currently studying HighLoad System Design essentials and Haskell. 
 - ✍️ Crafting articles on topics revolving around system, software design and my thoughts.
 - 💡 Explore my experiences and read all blog posts on [ivanzakutnii.com](https://ivanzakutnii.com/).
 
