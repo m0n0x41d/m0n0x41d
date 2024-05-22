@@ -2,14 +2,8 @@
 <h3 align="left">Platform Engineering Team Lead</h3>
 
 - 👨‍💻 Working at [Monite](https://monite.com/)
-- 🎓 Currently studying HighLoad System Design essentials and Haskell. 
-- ✍️ Writing about system and software design [ivanzakutnii.com](https://ivanzakutnii.com/).
-
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
-    <img src="https://github.com/m0n0x41d/m0n0x41d/blob/main/coder.gif" alt="Coder" width="200" height="125"/>
-  </div>
-</div>
+- 🎓 Currently studying HighLoad System Design essentials and Haskell
+- ✍️ Writing about system and software design [ivanzakutnii.com](https://ivanzakutnii.com/)
 
 
 
