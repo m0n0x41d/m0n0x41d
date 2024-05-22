@@ -1,14 +1,9 @@
-
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&duration=1000&pause=1000&color=2FF745&repeat=false&random=true&width=435&lines=Oh%2C+hello+there%F0%9F%96%96%F0%9F%98%8A%2C+I'm+Ivan.)](https://git.io/typing-svg)
-<h3 align="left">Platform Engineer</h3>
-
-Certainly! Here's a more polished and organized version:
+<h3 align="left">Platform Engineering Team Lead</h3>
 
 - 👨‍💻 Working at [Monite](https://monite.com/)
 - 🎓 Currently studying HighLoad System Design essentials and Haskell. 
-- ✍️ Crafting articles on topics revolving around system, software design and my thoughts.
-- 💡 Explore my experiences and read all blog posts on [ivanzakutnii.com](https://ivanzakutnii.com/).
+- ✍️ Writing about system and software design [ivanzakutnii.com](https://ivanzakutnii.com/).
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
