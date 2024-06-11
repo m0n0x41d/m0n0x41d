@@ -4,7 +4,7 @@
 - 👨‍💻 Working at [Monite](https://monite.com/) as Platform Engineering Team Lead
 - ✍️ Writing my thoughts and about things I've learned on my page [ivanzakutnii.com](https://ivanzakutnii.com/), and some on [DEV.TO](https://dev.to/m0n0x41d)
 
-### Latest DEV.TO blog posts:
+#### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [What the heck is homomorphism?](https://dev.to/m0n0x41d/what-the-heck-is-homomorphism-ilc)
 - [What is Abstraction?](https://dev.to/m0n0x41d/what-is-abstraction-44k1)
@@ -13,7 +13,7 @@
 - [HighLoad Saga. Part Two, Chapter 2: Data Storage and Processing Subsystems](https://dev.to/m0n0x41d/highload-saga-part-two-chapter-2-data-storage-and-processing-subsystems-5gh5)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Feel free to reach out:</h3>
+<h4 align="left">Feel free to reach out:</h3>
 <p align="left">
 <a href="http://t.me/m0n0x41d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="m0n0x41d" height="30" width="40" /></a>
 <a href="mailto:zakutnii.ivan@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="m0n0x41d" height="30" width="40" /></a>
