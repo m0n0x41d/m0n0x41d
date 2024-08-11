@@ -1,8 +1,8 @@
 ---
-<h3 align="left">Hello everybody and everywhere, I am Ivan.</h3>
+<h3 align="left">Hello everybody and everywhere, I am Human Being named Ivan.</h3>
 
 - 👨‍💻 Working at [Monite](https://monite.com/) as Platform Engineering Team Lead
-- ✍️ Writing my thoughts and about things I've learned on my page [ivanzakutnii.com](https://ivanzakutnii.com/), and some on [DEV.TO](https://dev.to/m0n0x41d)
+- ✍️ Writing my thoughts and about things I've learned on my page [ivanzakutnii.com](https://ivanzakutnii.com/), [telegram](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
