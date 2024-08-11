@@ -69,10 +69,3 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/ivanzakutn11">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ivanzakutn11" />
-  </a>
-</p>
-
