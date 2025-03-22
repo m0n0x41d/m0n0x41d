@@ -2,7 +2,7 @@
 <h3 align="left">Hello everybody and everywhere, I am Human Being named Ivan.</h3>
 
 - 👨‍💻 Working at [Monite](https://monite.com/) as Staff Engineer
-- ✍️ Writing my thoughts and about things I've learned on my page [ivanzakutnii.com](https://ivanzakutnii.com/), [telegram](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
+- ✍️ Writing my insights from studying and career on [substack](https://ivanzakutnii.com/), [telegram (in Russian)](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
