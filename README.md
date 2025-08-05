@@ -6,11 +6,11 @@
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Exception Generation is Pure Evil](https://dev.to/m0n0x41d/exception-generation-is-pure-evil-5bda)
 - [Why Augmented Intelligence after all?](https://dev.to/m0n0x41d/why-augmented-intelligence-after-all-5118)
 - [Productivity through primary metrics: how to finally understand where your time goes](https://dev.to/m0n0x41d/productivity-through-primary-metrics-how-to-finally-understand-where-your-time-goes-20lj)
 - [Embedding Design Into Code](https://dev.to/m0n0x41d/embedding-design-into-code-n4e)
 - [The Wisdom of Avoiding Conditional Statements](https://dev.to/m0n0x41d/the-wisdom-of-avoiding-conditional-statements-22a7)
-- [What the heck is homomorphism?](https://dev.to/m0n0x41d/what-the-heck-is-homomorphism-ilc)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Feel free to reach out:</h3>
