@@ -1,8 +1,8 @@
 ---
 <h3 align="left">Hello everybody and everywhere.</h3>
 
-- 👨‍💻 [Monite's](https://monite.com/) staff eng
-- ✍️ I blog on [substack](https://ivanzakutnii.com/), [telegram (in Russian)](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
+- [Monite's](https://monite.com/) staff eng
+- I blog [here](https://ivanzakutnii.com/), on [telegram (in Russian)](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
