@@ -5,8 +5,9 @@
 
 <h3 align="left">Hello everybody and everywhere.</h3>
 
-- I have been poking software, platforms, and systems engineering for a while now. I love building augmented intelligent systems where LLMs work well together with people.
+- I have been poking at software, platform, and systems engineering for a while now. I love building augmented intelligent systems where LLMs work well together with people.
 - I blog [here](https://ivanzakutnii.com/en/), on [telegram (in Russian)](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
+- I mentor individuals and consult teams. You can learn a bit more about it on my [page](https://ivanzakutnii.com/en/), or just contact me using the links below without hesitation.
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
