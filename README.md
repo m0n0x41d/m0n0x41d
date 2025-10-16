@@ -5,7 +5,7 @@
 
 <h3 align="left">Hello everybody and everywhere.</h3>
 
-- [Monite's](https://monite.com/) staff eng
+- I have been poking software, platforms, and systems engineering for a while now. I love building augmented intelligent systems where LLMs work well together with people.
 - I blog [here](https://ivanzakutnii.com/en/), on [telegram (in Russian)](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
 
 #### Latest DEV.TO blog posts:
