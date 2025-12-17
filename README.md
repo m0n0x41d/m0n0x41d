@@ -1,10 +1,8 @@
----
 
-<h3 align="left">Hello everybody and everywhere.</h3>
+<h3 align="left">ivan zakutni</h3>
 
-- I have been poking at software, platform, and systems engineering for a while now. I love building augmented intelligent systems where LLMs work well together with people.
-- I blog [here](https://ivanzakutnii.com/en/), on [telegram (in Russian)](https://t.me/ivanzakutnii) and some on [DEV.TO](https://dev.to/m0n0x41d)
-- I mentor individuals and consult teams. You can learn a bit more about it on my [page](https://ivanzakutnii.com/en/), or just contact me using the links below without hesitation.
+- I ship AI backends and systems that actually work
+- [Reach out to me](https://links.ivanzakutnii.com/)
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -15,7 +13,7 @@
 - [The Wisdom of Avoiding Conditional Statements](https://dev.to/m0n0x41d/the-wisdom-of-avoiding-conditional-statements-22a7)
 <!-- BLOG-POST-LIST:END -->
 
-<h4 align="left">Feel free to reach out:</h3>
+<h4 align="left">contacts:</h3>
 <p align="left">
 <a href="http://t.me/m0n0x41d" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="m0n0x41d" height="30" width="40" /></a>
 <a href="mailto:zakutnii.ivan@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="m0n0x41d" height="30" width="40" /></a>
