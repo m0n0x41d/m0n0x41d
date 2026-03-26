@@ -4,6 +4,8 @@
 - I ship production systems that work.
 - [Reach out to me](https://links.ivanzakutnii.com/)
 
+My git activity stats: [link](https://ivanzakutnii.com/is-commited/).
+
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [🎰 Stop Gambling with Vibe Coding: Meet Quint](https://dev.to/m0n0x41d/stop-gambling-with-vibe-coding-meet-quint-1f3j)
