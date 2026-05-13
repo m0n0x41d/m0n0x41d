@@ -2,6 +2,7 @@
 <h3 align="left">ivan zakutni</h3>
 
 - I ship production systems that work.
+- I do Kendo.
 - [Reach out to me](https://links.ivanzakutnii.com/)
 
 My git activity stats: [link](https://ivanzakutnii.com/is-commited/).
