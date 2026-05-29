@@ -3,7 +3,6 @@
 
 - Co-Founder and CTO @ Fusioncat
 - level 1 ASD. 
-
 - I ship production systems that work.
 - I do Kendo.
 - [Reach out to me](https://links.ivanzakutnii.com/)
