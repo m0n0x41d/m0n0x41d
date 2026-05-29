@@ -5,7 +5,6 @@
 - I do Kendo.
 - [Reach out to me](https://links.ivanzakutnii.com/)
 
-My git activity stats: [link](https://ivanzakutnii.com/is-commited/).
 
 #### Latest DEV.TO blog posts:
 <!-- BLOG-POST-LIST:START -->
